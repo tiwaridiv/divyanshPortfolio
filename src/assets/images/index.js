@@ -3,7 +3,8 @@ import meta from './meta.png'
 import shopify from './shopify.png'
 import starbucks from './starbucks.png'
 import tesla from './tesla.png'
-import logo from './logo.svg'
+import treleva  from './treleva.png'
+import logo from './logo.png'
 
 export {
     hero,
@@ -11,5 +12,6 @@ export {
     shopify,
     starbucks,
     tesla,
+    treleva,
     logo
 }
